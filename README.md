@@ -49,6 +49,9 @@
 9. I have type 1 diabetes, am I eligible for 7350 copper plan?
 
 ---
+![q1](https://github.com/user-attachments/assets/c7f8dbae-9bf9-4d1e-9990-d21823eb03ec)
+![q2](https://github.com/user-attachments/assets/af2a187a-6569-4ce9-aa31-fefb8cc8de39)
+
 
 ## Assumptions
 
