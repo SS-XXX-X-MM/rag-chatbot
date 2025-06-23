@@ -1,0 +1,18 @@
+```
+Event,Total Example Cost,In Example Would Pay,Payment Type,Amount
+Peg is Having a Baby,$2,580,In this example, Peg would pay:,Cost Sharing Deductibles,$2,500
+,,Peg,Cost Sharing Copayments,$40
+,,Peg,Cost Sharing Coinsurance,$0
+,,Peg,Limits or exclusions,$0
+,,The total Peg would pay is,$2,540
+Managing Joe’s type 2 Diabetes,$1,000,In this example, Joe would pay:,Cost Sharing Deductibles,$960
+,,Joe,Cost Sharing Copayments,$40
+,,Joe,Cost Sharing Coinsurance,$0
+,,Joe,Limits or exclusions,$0
+,,The total Joe would pay is,$1,000
+Mia’s Simple Fracture,$2,500,In this example, Mia would pay:,Cost Sharing Deductibles,$2,500
+,,Mia,Cost Sharing Copayments,$40
+,,Mia,Cost Sharing Coinsurance,$0
+,,Mia,Limits or exclusions,$0
+,,The total Mia would pay is,$2,540
+```

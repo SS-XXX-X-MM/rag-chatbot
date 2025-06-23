@@ -1,0 +1,6 @@
+```
+Event,Overall Deductible,Specialist Cost Sharing,Hospital Facility Cost Sharing,Other Cost Sharing,Total Example Cost,Deductibles Paid,Copayments Paid,Coinsurance Paid,Exclusions,Limits or Exclusions,Total Paid by Person
+Peg is Having a Baby,$2,500,$40,0%,0%,$2,580,$2,500,$40,$0,N/A,$0,$2,540
+Managing Joe's type 2 Diabetes,$2,500,$40,80%,0%,$1,000,$960,$40,$0,N/A,$0,$1,000
+Mia’s Simple Fracture,$2,500,$40,80%,0%,$2,500,$2,500,$40,$0,N/A,$0,$2,540
+```

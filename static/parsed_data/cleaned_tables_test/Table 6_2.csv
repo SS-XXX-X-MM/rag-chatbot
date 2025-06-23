@@ -1,0 +1,12 @@
+Peg is Having a Baby,Managing Joe’s type 2 Diabetes,Mia’s Simple Fracture
+The plan’s overall deductible,$2,500,$2,500,$2,500
+Specialist [cost sharing],$40,$40,$40
+Hospital (facility) [cost sharing],0%,80%,80%
+Other [cost sharing],0%,0%,0%
+Total Example Cost,$2,580,$1,000,$2,500
+In this example, [Name] would pay:
+Deductibles,$2,500,$960,$2,500
+Copayments,$40,$40,$40
+Coinsurance,$0,$0,$0
+Limits or exclusions,$0,$0,$0
+The total [Name] would pay is,$2,540,$1,000,$2,540

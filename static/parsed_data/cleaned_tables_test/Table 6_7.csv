@@ -1,0 +1,6 @@
+```
+Category,Scenario,Overall Deductible,Specialist,Hospital (facility),Other,Total Example Cost,Cost Sharing - Deductibles,Cost Sharing - Copayments,Cost Sharing - Coinsurance,Limits or Exclusions,Total Payment
+Coverage Example,Peg is Having a Baby,$2500,$40,0%,0%,$2580,$2500,$40,$0,$0,$2540
+Coverage Example,Managing Joe’s type 2 Diabetes,$2500,$40,80%,0%,$1000,$960,$40,$0,$0,$1000
+Coverage Example,Mia’s Simple Fracture,$2500,$40,80%,0%,$2500,$2500,$40,$0,$0,$2540
+```
